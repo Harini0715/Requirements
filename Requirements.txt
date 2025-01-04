@@ -1,0 +1,10 @@
+Flask==2.0.3
+Flask Login==0.5.0
+Flask_SQLAlchemy==2.4.4
+NumPy==1.23.2
+Pandas==2.0.3
+Python_bcrypt==0.3.2
+Requests==2.32.3
+Torch==2.3.1
+Torch vision==0.18.1
+MySQL
